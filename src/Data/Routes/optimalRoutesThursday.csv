@@ -1,0 +1,26 @@
+Route,Cost,CostDolllars,State
+"['Warehouse', 'New World Mt Roskill', 'Warehouse']",737.44,30.726666666666667,1.0
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04,79.085,1.0
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28,143.30333333333334,1.0
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06,131.41916666666665,1.0
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3,199.42916666666667,1.0
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94,156.33083333333332,1.0
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92,55.913333333333334,1.0
+"['Warehouse', 'New World Green Bay', 'New World New Lynn', 'Warehouse']",2712.54,113.0225,1.0
+"['Warehouse', 'New World Metro Queen St', 'New World Victoria Park', 'Warehouse']",3274.64,136.44333333333333,1.0
+"['Warehouse', 'New World Southmall', 'New World Papatoetoe', 'Warehouse']",4673.59,194.73291666666665,1.0
+"['Warehouse', 'New World Stonefields', 'New World Remuera', 'Warehouse']",3851.68,160.48666666666665,1.0
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82,146.32583333333332,1.0
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32,103.47166666666666,1.0
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Hobsonville', 'Warehouse']",5740.6,239.19166666666666,1.0
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Four Square Ellerslie', 'Warehouse']",3781.8,157.575,1.0
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Fresh Collective Alberton', 'Warehouse']",4700.530000000002,195.8554166666667,1.0
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Henderson"", 'Warehouse']",4200.65,175.0270833333333,1.0
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Great Eastern', 'Warehouse']",4519.72,188.32166666666666,1.0
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Botany Junction', 'Warehouse']",4777.99,199.08291666666665,1.0
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Everglade', 'Warehouse']",5253.22,218.88416666666666,1.0
+"['Warehouse', 'New World Devonport', 'New World Browns Bay', 'Four Square Glen Eden', 'Warehouse']",9316.97,1200.0,1.0
+"['Warehouse', 'New World Albany', 'Four Square Lancaster', 'New World Birkenhead', 'Warehouse']",6778.31,1200.0,1.0
+"['Warehouse', 'New World Long Bay', 'Four Square BKs Torbay', 'New World Milford', 'Warehouse']",7207.81,1200.0,1.0
+"['Warehouse', 'New World Botany', 'Four Square Pakuranga Heights', 'New World Eastridge', 'Warehouse']",6452.54,1200.0,1.0
+"['Warehouse', 'New World Howick', 'Four Square Cockle Bay', 'New World Papakura', 'Warehouse']",8007.530000000002,1200.0,1.0

@@ -1,0 +1,995 @@
+Route,Cost
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Fair Price Henderson', 'Four Square Hobsonville', 'Four Square BKs Torbay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",10590.36
+"['Warehouse', 'Four Square Lancaster', 'Four Square BKs Torbay', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Four Square Glen Eden', 'Warehouse']",10253.95
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Fair Price Henderson', 'Four Square Hobsonville', 'Four Square BKs Torbay', 'Fresh Collective Alberton', 'Warehouse']",9312.490000000002
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Fair Price Henderson', 'Four Square BKs Torbay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",10013.25
+"['Warehouse', 'Four Square Lancaster', 'Four Square BKs Torbay', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Fresh Collective Alberton', 'Warehouse']",9958.660000000002
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'Four Square BKs Torbay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",9910.04
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Fair Price Henderson', 'Four Square Hobsonville', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8335.79
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Lancaster', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",6670.929999999999
+"['Warehouse', 'New World New Lynn', 'Four Square Hobsonville', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7254.79
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Lancaster', 'Fresh Collective Alberton', 'New World Mt Roskill', 'Warehouse']",6629.01
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Lancaster', 'New World Milford', 'Fresh Collective Alberton', 'Warehouse']",7440.129999999999
+"['Warehouse', 'New World Metro Queen St', 'Four Square Lancaster', 'Four Square Hobsonville', 'Fresh Collective Alberton', 'Warehouse']",7288.679999999999
+"['Warehouse', 'Four Square Hobsonville', 'New World Long Bay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8619.8
+"['Warehouse', 'New World Green Bay', 'Four Square Hobsonville', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7609.0199999999995
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Lancaster', 'New World Devonport', 'Fresh Collective Alberton', 'Warehouse']",8657.429999999998
+"['Warehouse', 'Four Square Hobsonville', 'New World Browns Bay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8169.59
+"['Warehouse', 'Four Square Hobsonville', 'New World Albany', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7579.28
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7655.47
+"['Warehouse', 'Four Square Lancaster', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Fresh Collective Alberton', 'Warehouse']",7772.509999999999
+"['Warehouse', 'Four Square Hobsonville', 'Four Square BKs Torbay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8529.51
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Lancaster', 'New World Birkenhead', 'Fresh Collective Alberton', 'Warehouse']",6644.719999999999
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Lancaster', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",7446.999999999999
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Lancaster', 'Fresh Collective Alberton', 'New World Mt Roskill', 'Warehouse']",7405.08
+"['Warehouse', 'Four Square Glen Eden', 'New World Albany', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8382.7
+"['Warehouse', 'Four Square Glen Eden', 'New World Milford', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8072.540000000001
+"['Warehouse', 'Four Square Glen Eden', 'New World Metro Queen St', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7652.219999999999
+"['Warehouse', 'Four Square Glen Eden', 'New World New Lynn', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7595.799999999999
+"['Warehouse', 'Four Square Glen Eden', 'New World Long Bay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",9423.220000000003
+"['Warehouse', 'Four Square Glen Eden', 'New World Devonport', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",9276.210000000003
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Lancaster', 'New World Birkenhead', 'Fresh Collective Alberton', 'Warehouse']",7420.79
+"['Warehouse', 'New World Green Bay', 'Four Square Glen Eden', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7542.43
+"['Warehouse', 'Four Square Glen Eden', 'New World Browns Bay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8973.010000000002
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",6990.469999999999
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Albany', 'Fresh Collective Alberton', 'Warehouse']",7681.950000000001
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'Fresh Collective Alberton', 'New World Mt Roskill', 'Warehouse']",6258.38
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Milford', 'Fresh Collective Alberton', 'Warehouse']",7575.67
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Metro Queen St', 'Fresh Collective Alberton', 'Warehouse']",7241.659999999999
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Glen Eden', 'New World New Lynn', 'Fresh Collective Alberton', 'Warehouse']",6564.48
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Long Bay', 'Fresh Collective Alberton', 'Warehouse']",8722.470000000001
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Devonport', 'Fresh Collective Alberton', 'Warehouse']",8829.61
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Birkenhead', 'Fresh Collective Alberton', 'Warehouse']",7594.47
+"['Warehouse', 'New World Green Bay', 'Four Square Glen Eden', 'Four Square Hobsonville', 'Fresh Collective Alberton', 'Warehouse']",6395.7300000000005
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'New World Browns Bay', 'Fresh Collective Alberton', 'Warehouse']",8312.369999999999
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'Four Square Lancaster', 'New World Victoria Park', 'Warehouse']",7651.93
+"['Warehouse', 'Four Square Fair Price Henderson', 'Four Square Lancaster', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",7274.79
+"['Warehouse', 'Four Square Lancaster', 'New World Albany', 'Four Square Hobsonville', 'Four Square Glen Eden', 'Warehouse']",8655.67
+"['Warehouse', 'Four Square Fair Price Henderson', 'New World Albany', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",8183.140000000001
+"['Warehouse', 'Four Square Lancaster', 'Four Square Hobsonville', 'Four Square Glen Eden', 'New World Mt Roskill', 'Warehouse']",7798.07
+"['Warehouse', 'Four Square Fair Price Henderson', 'Four Square Lancaster', 'Fresh Collective Alberton', 'New World Mt Roskill', 'Warehouse']",7232.87
+"['Warehouse', 'New World Milford', 'Four Square Lancaster', 'Four Square Hobsonville', 'Four Square Glen Eden', 'Warehouse']",8442.55
+"['Warehouse', 'Four Square Everglade', 'Four Square Botany Junction', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",8380.849999999999
+"['Warehouse', 'Four Square Everglade', 'Four Square Botany Junction', 'Four Square Cockle Bay', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",7943.509999999998
+"['Warehouse', 'Four Square Everglade', 'Four Square Botany Junction', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",7393.33
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",7904.81
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",8032.6
+"['Warehouse', 'Four Square Everglade', 'Four Square Botany Junction', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",7165.709999999999
+"['Warehouse', 'Four Square Everglade', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",8047.909999999999
+"['Warehouse', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'New World Stonefields', 'Warehouse']",6877.6
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'New World Southmall', 'Four Square Everglade', 'Warehouse']",7436.86
+"['Warehouse', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'New World Remuera', 'Warehouse']",6907.320000000001
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Everglade', 'New World Papatoetoe', 'Warehouse']",7188.040000000001
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'New World Papakura', 'Four Square Everglade', 'Warehouse']",8624.86
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'New World Howick', 'Four Square Everglade', 'Warehouse']",7452.97
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'New World Botany', 'Four Square Everglade', 'Warehouse']",6859.380000000001
+"['Warehouse', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6832.759999999999
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'Four Square Everglade', 'Warehouse']",7621.070000000001
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",6876.95
+"['Warehouse', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'New World Eastridge', 'Warehouse']",6976.240000000001
+"['Warehouse', 'New World Botany', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6692.04
+"['Warehouse', 'New World Stonefields', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",6225.74
+"['Warehouse', 'New World Southmall', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",7274.15
+"['Warehouse', 'Four Square Ellerslie', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'New World Remuera', 'Warehouse']",6259.130000000001
+"['Warehouse', 'New World Eastridge', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",6323.840000000001
+"['Warehouse', 'New World Papakura', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",8259.68
+"['Warehouse', 'New World Papatoetoe', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6636.3099999999995
+"['Warehouse', 'Four Square Pakuranga Heights', 'New World Howick', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6898.18
+"['Warehouse', 'Four Square Everglade', 'New World Botany', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",6248.22
+"['Warehouse', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'New World Stonefields', 'Four Square Ellerslie', 'Warehouse']",6482.72
+"['Warehouse', 'New World Southmall', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",6680.080000000001
+"['Warehouse', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'New World Remuera', 'Warehouse']",6479.010000000001
+"['Warehouse', 'New World Eastridge', 'Four Square Pakuranga Heights', 'Four Square Everglade', 'Four Square Ellerslie', 'Warehouse']",7636.81
+"['Warehouse', 'New World Papakura', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",7868.070000000001
+"['Warehouse', 'New World Papatoetoe', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",6575.240000000001
+"['Warehouse', 'Four Square Everglade', 'New World Howick', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",6899.400000000001
+"['Warehouse', 'Four Square Everglade', 'New World Botany', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6863.919999999999
+"['Warehouse', 'Four Square Great Eastern', 'New World Botany', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Warehouse']",7476.300000000001
+"['Warehouse', 'Four Square Everglade', 'New World Stonefields', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6643.2300000000005
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'Four Square Great Eastern', 'New World Stonefields', 'Warehouse']",7245.21
+"['Warehouse', 'New World Southmall', 'Four Square Everglade', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6915.009999999999
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'New World Southmall', 'Warehouse']",8128.24
+"['Warehouse', 'Four Square Everglade', 'Four Square Ellerslie', 'Four Square Great Eastern', 'New World Remuera', 'Warehouse']",6812.0599999999995
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'Four Square Great Eastern', 'New World Remuera', 'Warehouse']",7274.93
+"['Warehouse', 'Four Square Everglade', 'New World Eastridge', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",7059.31
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'Four Square Great Eastern', 'New World Eastridge', 'Warehouse']",7343.85
+"['Warehouse', 'New World Papakura', 'Four Square Everglade', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",8102.999999999999
+"['Warehouse', 'New World Papakura', 'Four Square Great Eastern', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Warehouse']",9759.86
+"['Warehouse', 'New World Papatoetoe', 'Four Square Everglade', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6810.169999999999
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'New World Papatoetoe', 'Warehouse']",7660.52
+"['Warehouse', 'Four Square Everglade', 'New World Howick', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",7449.579999999999
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'New World Botany', 'Four Square Everglade', 'Warehouse']",6730.870000000001
+"['Warehouse', 'New World Victoria Park', 'Warehouse']",2698.1
+"['Warehouse', 'New World New Lynn', 'Warehouse']",1964.04
+"['Warehouse', 'New World Mt Roskill', 'Warehouse']",737.44
+"['Warehouse', 'New World Milford', 'Warehouse']",4328.26
+"['Warehouse', 'New World Metro Queen St', 'Warehouse']",2782.94
+"['Warehouse', 'New World Long Bay', 'Warehouse']",5969.44
+"['Warehouse', 'New World Green Bay', 'Warehouse']",2004.42
+"['Warehouse', 'New World Devonport', 'Warehouse']",5240.92
+"['Warehouse', 'New World Browns Bay', 'Warehouse']",5492.54
+"['Warehouse', 'New World Albany', 'Warehouse']",4943.08
+"['Warehouse', 'Fresh Collective Alberton', 'Warehouse']",1599.4
+"['Warehouse', 'Four Square Lancaster', 'Warehouse']",4837.4
+"['Warehouse', 'Four Square Hobsonville', 'Warehouse']",3859.16
+"['Warehouse', 'Four Square Glen Eden', 'Warehouse']",2786.92
+"['Warehouse', 'Four Square BKs Torbay', 'Warehouse']",5885.56
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'Four Square Fair Price Henderson', 'Warehouse']",3544.04
+"['Warehouse', 'New World Birkenhead', 'Warehouse']",4300.58
+"['Warehouse', 'New World Stonefields', 'Warehouse']",3394.64
+"['Warehouse', 'New World Southmall', 'Warehouse']",3858.22
+"['Warehouse', 'New World Remuera', 'Warehouse']",2620.92
+"['Warehouse', 'New World Papatoetoe', 'Warehouse']",3167.04
+"['Warehouse', 'New World Papakura', 'Warehouse']",4924.78
+"['Warehouse', 'New World Howick', 'Warehouse']",5038.14
+"['Warehouse', 'New World Botany', 'Warehouse']",4663.38
+"['Warehouse', 'Four Square Pakuranga Heights', 'Warehouse']",3914.64
+"['Warehouse', 'Four Square Great Eastern', 'Warehouse']",4118.32
+"['Warehouse', 'Four Square Everglade', 'Warehouse']",3595.22
+"['Warehouse', 'Four Square Ellerslie', 'Warehouse']",2797.6
+"['Warehouse', 'Four Square Botany Junction', 'Warehouse']",4050.86
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'Four Square Cockle Bay', 'Warehouse']",5321.16
+"['Warehouse', 'New World Eastridge', 'Warehouse']",3587.26
+"['Warehouse', 'Fresh Collective Alberton', 'Warehouse']",1599.4
+"['Warehouse', 'Four Square Lancaster', 'Warehouse']",4837.4
+"['Warehouse', 'Four Square Hobsonville', 'Warehouse']",3859.16
+"['Warehouse', 'Four Square Glen Eden', 'Warehouse']",2786.92
+"['Warehouse', 'Four Square BKs Torbay', 'Warehouse']",5885.56
+"['Warehouse', 'New World Victoria Park', 'Warehouse']",2698.1
+"['Warehouse', 'New World New Lynn', 'Warehouse']",1964.04
+"['Warehouse', 'New World Mt Roskill', 'Warehouse']",737.44
+"['Warehouse', 'New World Milford', 'Warehouse']",4328.26
+"['Warehouse', 'New World Metro Queen St', 'Warehouse']",2782.94
+"['Warehouse', 'New World Long Bay', 'Warehouse']",5969.44
+"['Warehouse', 'New World Green Bay', 'Warehouse']",2004.42
+"['Warehouse', 'New World Devonport', 'Warehouse']",5240.92
+"['Warehouse', 'New World Browns Bay', 'Warehouse']",5492.54
+"['Warehouse', 'New World Albany', 'Warehouse']",4943.08
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'Four Square Fair Price Henderson', 'Warehouse']",3544.04
+"['Warehouse', 'New World Birkenhead', 'Warehouse']",4300.58
+"['Warehouse', 'Four Square Pakuranga Heights', 'Warehouse']",3914.64
+"['Warehouse', 'Four Square Great Eastern', 'Warehouse']",4118.32
+"['Warehouse', 'Four Square Everglade', 'Warehouse']",3595.22
+"['Warehouse', 'Four Square Ellerslie', 'Warehouse']",2797.6
+"['Warehouse', 'Four Square Botany Junction', 'Warehouse']",4050.86
+"['Warehouse', 'New World Stonefields', 'Warehouse']",3394.64
+"['Warehouse', 'New World Southmall', 'Warehouse']",3858.22
+"['Warehouse', 'New World Remuera', 'Warehouse']",2620.92
+"['Warehouse', 'New World Papatoetoe', 'Warehouse']",3167.04
+"['Warehouse', 'New World Papakura', 'Warehouse']",4924.78
+"['Warehouse', 'New World Howick', 'Warehouse']",5038.14
+"['Warehouse', 'New World Botany', 'Warehouse']",4663.38
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'Four Square Cockle Bay', 'Warehouse']",5321.16
+"['Warehouse', 'New World Eastridge', 'Warehouse']",3587.26
+"['Warehouse', 'New World Victoria Park', 'Warehouse']",2698.1
+"['Warehouse', 'New World New Lynn', 'Warehouse']",1964.04
+"['Warehouse', 'New World Mt Roskill', 'Warehouse']",737.44
+"['Warehouse', 'New World Milford', 'Warehouse']",4328.26
+"['Warehouse', 'New World Metro Queen St', 'Warehouse']",2782.94
+"['Warehouse', 'New World Long Bay', 'Warehouse']",5969.44
+"['Warehouse', 'New World Green Bay', 'Warehouse']",2004.42
+"['Warehouse', 'New World Devonport', 'Warehouse']",5240.92
+"['Warehouse', 'New World Browns Bay', 'Warehouse']",5492.54
+"['Warehouse', 'New World Albany', 'Warehouse']",4943.08
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'New World Birkenhead', 'Warehouse']",4300.58
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', 'Warehouse']",7314.59
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Glen Eden', 'Warehouse']",5257.33
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Glen Eden', 'Warehouse']",7529.59
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Warehouse']",5042.33
+"['Warehouse', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",5204.78
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Lancaster', 'Warehouse']",7276.57
+"['Warehouse', 'Four Square BKs Torbay', 'Fresh Collective Alberton', 'Warehouse']",6366.08
+"['Warehouse', 'Four Square Fair Price Henderson', 'Four Square Glen Eden', 'Warehouse']",4405.82
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Hobsonville', 'Warehouse']",6795.31
+"['Warehouse', 'Four Square Lancaster', 'Four Square Fair Price Henderson', 'Warehouse']",6542.129999999999
+"['Warehouse', 'Four Square Fair Price Henderson', 'Fresh Collective Alberton', 'Warehouse']",4110.53
+"['Warehouse', 'Four Square Lancaster', 'Four Square Glen Eden', 'Warehouse']",6668.469999999999
+"['Warehouse', 'Four Square Lancaster', 'Four Square Hobsonville', 'Warehouse']",6022.849999999999
+"['Warehouse', 'Four Square Hobsonville', 'Fresh Collective Alberton', 'Warehouse']",4523.78
+"['Warehouse', 'Four Square Glen Eden', 'Fresh Collective Alberton', 'Warehouse']",3645.08
+"['Warehouse', 'New World Stonefields', 'Warehouse']",3394.64
+"['Warehouse', 'New World Southmall', 'Warehouse']",3858.22
+"['Warehouse', 'New World Remuera', 'Warehouse']",2620.92
+"['Warehouse', 'New World Papatoetoe', 'Warehouse']",3167.04
+"['Warehouse', 'New World Papakura', 'Warehouse']",4924.78
+"['Warehouse', 'New World Howick', 'Warehouse']",5038.14
+"['Warehouse', 'New World Botany', 'Warehouse']",4663.38
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'New World Eastridge', 'Warehouse']",3587.26
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Warehouse']",5941.46
+"['Warehouse', 'Four Square Everglade', 'Four Square Ellerslie', 'Warehouse']",4643.9
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Ellerslie', 'Warehouse']",4995.95
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Everglade', 'Warehouse']",6046.07
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Warehouse']",5162.52
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Botany Junction', 'Warehouse']",5959.47
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Pakuranga Heights', 'Warehouse']",5066.24
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Ellerslie', 'Warehouse']",5978.06
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",4567.0
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Great Eastern', 'Warehouse']",6484.95
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Warehouse']",5687.16
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",4506.62
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Everglade', 'Warehouse']",5801.0
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Everglade', 'Warehouse']",5217.54
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",4550.55
+"['Warehouse', 'New World Victoria Park', 'Warehouse']",2698.1
+"['Warehouse', 'New World New Lynn', 'Warehouse']",1964.04
+"['Warehouse', 'New World Mt Roskill', 'Warehouse']",737.44
+"['Warehouse', 'New World Milford', 'Warehouse']",4328.26
+"['Warehouse', 'New World Metro Queen St', 'Warehouse']",2782.94
+"['Warehouse', 'New World Long Bay', 'Warehouse']",5969.44
+"['Warehouse', 'New World Green Bay', 'Warehouse']",2004.42
+"['Warehouse', 'New World Devonport', 'Warehouse']",5240.92
+"['Warehouse', 'New World Browns Bay', 'Warehouse']",5492.54
+"['Warehouse', 'New World Albany', 'Warehouse']",4943.08
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'New World Birkenhead', 'Warehouse']",4300.58
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', 'Warehouse']",7314.59
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Glen Eden', 'Warehouse']",5257.33
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Glen Eden', 'Warehouse']",7529.59
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Warehouse']",5042.33
+"['Warehouse', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",5204.78
+"['Warehouse', 'Four Square Lancaster', 'Four Square Fair Price Henderson', 'Warehouse']",6542.129999999999
+"['Warehouse', 'Four Square Hobsonville', 'Fresh Collective Alberton', 'Warehouse']",4523.78
+"['Warehouse', 'Four Square Lancaster', 'Four Square Glen Eden', 'Warehouse']",6668.469999999999
+"['Warehouse', 'Four Square BKs Torbay', 'Fresh Collective Alberton', 'Warehouse']",6366.08
+"['Warehouse', 'Four Square Fair Price Henderson', 'Fresh Collective Alberton', 'Warehouse']",4110.53
+"['Warehouse', 'Four Square Fair Price Henderson', 'Four Square Glen Eden', 'Warehouse']",4405.82
+"['Warehouse', 'Four Square Lancaster', 'Four Square Hobsonville', 'Warehouse']",6022.849999999999
+"['Warehouse', 'Four Square Glen Eden', 'Fresh Collective Alberton', 'Warehouse']",3645.08
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Lancaster', 'Warehouse']",7276.57
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Hobsonville', 'Warehouse']",6795.31
+"['Warehouse', 'New World Stonefields', 'Warehouse']",3394.64
+"['Warehouse', 'New World Southmall', 'Warehouse']",3858.22
+"['Warehouse', 'New World Remuera', 'Warehouse']",2620.92
+"['Warehouse', 'New World Papatoetoe', 'Warehouse']",3167.04
+"['Warehouse', 'New World Papakura', 'Warehouse']",4924.78
+"['Warehouse', 'New World Howick', 'Warehouse']",5038.14
+"['Warehouse', 'New World Botany', 'Warehouse']",4663.38
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'New World Eastridge', 'Warehouse']",3587.26
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Warehouse']",5941.46
+"['Warehouse', 'Four Square Everglade', 'Four Square Ellerslie', 'Warehouse']",4643.9
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Ellerslie', 'Warehouse']",4995.95
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Everglade', 'Warehouse']",6046.07
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Warehouse']",5162.52
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Great Eastern', 'Warehouse']",6484.95
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Everglade', 'Warehouse']",5217.54
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",4506.62
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Pakuranga Heights', 'Warehouse']",5066.24
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Warehouse']",5687.16
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Ellerslie', 'Warehouse']",5978.06
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Everglade', 'Warehouse']",5801.0
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",4550.55
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Botany Junction', 'Warehouse']",5959.47
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",4567.0
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'New World Victoria Park', 'Warehouse']",2698.1
+"['Warehouse', 'New World New Lynn', 'Warehouse']",1964.04
+"['Warehouse', 'New World Mt Roskill', 'Warehouse']",737.44
+"['Warehouse', 'New World Milford', 'Warehouse']",4328.26
+"['Warehouse', 'New World Metro Queen St', 'Warehouse']",2782.94
+"['Warehouse', 'New World Long Bay', 'Warehouse']",5969.44
+"['Warehouse', 'New World Green Bay', 'Warehouse']",2004.42
+"['Warehouse', 'New World Devonport', 'Warehouse']",5240.92
+"['Warehouse', 'New World Browns Bay', 'Warehouse']",5492.54
+"['Warehouse', 'New World Albany', 'Warehouse']",4943.08
+"['Warehouse', 'New World Birkenhead', 'Warehouse']",4300.58
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', 'Four Square Glen Eden', 'Warehouse']",8176.37
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",6274.94
+"['Warehouse', 'Four Square Lancaster', 'Four Square Hobsonville', 'Four Square Glen Eden', 'Warehouse']",7421.0199999999995
+"['Warehouse', 'Four Square Fair Price Henderson', 'Four Square BKs Torbay', 'Fresh Collective Alberton', 'Warehouse']",7855.500000000001
+"['Warehouse', 'Four Square Glen Eden', 'Four Square BKs Torbay', 'Fresh Collective Alberton', 'Warehouse']",8055.06
+"['Warehouse', 'Four Square Lancaster', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Warehouse']",7206.02
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Warehouse']",7978.48
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Four Square Glen Eden', 'Warehouse']",5904.110000000001
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7643.950000000001
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Fair Price Henderson', 'Fresh Collective Alberton', 'Warehouse']",5608.82
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",7051.01
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Hobsonville', 'Four Square Glen Eden', 'Warehouse']",8193.48
+"['Warehouse', 'Four Square Lancaster', 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', 'Warehouse']",8728.279999999999
+"['Warehouse', 'Four Square Lancaster', 'Four Square BKs Torbay', 'Four Square Glen Eden', 'Warehouse']",8943.279999999999
+"['Warehouse', 'Four Square Fair Price Henderson', 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",6878.8
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Fair Price Henderson', 'Fresh Collective Alberton', 'Warehouse']",4990.41
+"['Warehouse', 'Four Square Lancaster', 'Four Square Fair Price Henderson', 'Four Square Glen Eden', 'Warehouse']",7403.909999999999
+"['Warehouse', 'Four Square Lancaster', 'Four Square BKs Torbay', 'Four Square Hobsonville', 'Warehouse']",8209.0
+"['Warehouse', 'Four Square Hobsonville', 'Four Square BKs Torbay', 'Fresh Collective Alberton', 'Warehouse']",7251.64
+"['Warehouse', 'Four Square Glen Eden', 'Four Square Hobsonville', 'Fresh Collective Alberton', 'Warehouse']",5904.31
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'New World Stonefields', 'Warehouse']",3394.64
+"['Warehouse', 'New World Southmall', 'Warehouse']",3858.22
+"['Warehouse', 'New World Remuera', 'Warehouse']",2620.92
+"['Warehouse', 'New World Papatoetoe', 'Warehouse']",3167.04
+"['Warehouse', 'New World Papakura', 'Warehouse']",4924.78
+"['Warehouse', 'New World Howick', 'Warehouse']",5038.14
+"['Warehouse', 'New World Botany', 'Warehouse']",4663.38
+"['Warehouse', 'New World Eastridge', 'Warehouse']",3587.26
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Cockle Bay', 'Four Square Ellerslie', 'Warehouse']",6572.28
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Four Square Everglade', 'Warehouse']",6465.42
+"['Warehouse', 'Four Square Everglade', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6080.169999999999
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Warehouse']",6281.38
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",5702.150000000001
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Cockle Bay', 'Four Square Everglade', 'Warehouse']",7233.349999999999
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",6457.599999999999
+"['Warehouse', 'Four Square Everglade', 'Four Square Cockle Bay', 'Four Square Ellerslie', 'Warehouse']",6715.38
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Warehouse']",6973.75
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'Four Square Everglade', 'Warehouse']",6373.1900000000005
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",5538.07
+"['Warehouse', 'Four Square Everglade', 'Four Square Botany Junction', 'Four Square Ellerslie', 'Warehouse']",5471.99
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Warehouse']",7128.74
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6317.85
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Warehouse']",6874.4400000000005
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', 'Four Square Ellerslie', 'Warehouse']",6305.18
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Great Eastern', 'Four Square Ellerslie', 'Warehouse']",6873.25
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",6475.61
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",5629.07
+"['Warehouse', 'Four Square Everglade', 'Four Square Pakuranga Heights', 'Four Square Ellerslie', 'Warehouse']",5845.240000000001
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",3097.63
+"['Warehouse', 'New World Albany', 'New World Birkenhead', 'Warehouse']",6242.58
+"['Warehouse', 'New World Browns Bay', 'New World Devonport', 'Warehouse']",7628.339999999999
+"['Warehouse', 'New World Browns Bay', 'New World Albany', 'Warehouse']",6120.139999999999
+"['Warehouse', 'New World Devonport', 'New World Birkenhead', 'Warehouse']",6637.39
+"['Warehouse', 'New World Long Bay', 'New World Green Bay', 'Warehouse']",7396.379999999999
+"['Warehouse', 'New World Milford', 'New World Metro Queen St', 'Warehouse']",5019.820000000001
+"['Warehouse', 'New World Metro Queen St', 'New World Green Bay', 'Warehouse']",4217.77
+"['Warehouse', 'New World Long Bay', 'New World Milford', 'Warehouse']",6894.370000000001
+"['Warehouse', 'New World New Lynn', 'New World Mt Roskill', 'Warehouse']",2403.88
+"['Warehouse', 'Four Square Lancaster', 'New World Mt Roskill', 'Warehouse']",5113.509999999999
+"['Warehouse', 'Four Square Lancaster', 'New World Victoria Park', 'Warehouse']",5201.24
+"['Warehouse', 'Four Square Hobsonville', 'New World New Lynn', 'Warehouse']",4871.0
+"['Warehouse', 'New World Browns Bay', 'Four Square Glen Eden', 'Warehouse']",7200.8
+"['Warehouse', 'Four Square BKs Torbay', 'New World Birkenhead', 'Warehouse']",7155.62
+"['Warehouse', 'New World Victoria Park', 'New World New Lynn', 'Warehouse']",3950.21
+"['Warehouse', 'New World Albany', 'New World New Lynn', 'Warehouse']",6191.76
+"['Warehouse', 'New World Milford', 'New World Mt Roskill', 'Warehouse']",4759.05
+"['Warehouse', 'New World Metro Queen St', 'New World New Lynn', 'Warehouse']",4046.88
+"['Warehouse', 'New World Long Bay', 'New World New Lynn', 'Warehouse']",7225.49
+"['Warehouse', 'New World Devonport', 'New World New Lynn', 'Warehouse']",6563.15
+"['Warehouse', 'New World Green Bay', 'New World New Lynn', 'Warehouse']",2712.54
+"['Warehouse', 'New World Milford', 'New World Victoria Park', 'Warehouse']",4846.77
+"['Warehouse', 'New World Albany', 'New World Milford', 'Warehouse']",5912.16
+"['Warehouse', 'New World Milford', 'New World New Lynn', 'Warehouse']",5619.42
+"['Warehouse', 'New World Milford', 'New World Green Bay', 'Warehouse']",5790.3099999999995
+"['Warehouse', 'New World Green Bay', 'New World Mt Roskill', 'Warehouse']",2432.26
+"['Warehouse', 'New World Birkenhead', 'New World Green Bay', 'Warehouse']",5562.9400000000005
+"['Warehouse', 'New World Browns Bay', 'New World Green Bay', 'Warehouse']",6986.29
+"['Warehouse', 'New World Browns Bay', 'New World New Lynn', 'Warehouse']",6814.460000000001
+"['Warehouse', 'New World Browns Bay', 'New World Milford', 'Warehouse']",6182.429999999999
+"['Warehouse', 'New World Browns Bay', 'New World Birkenhead', 'Warehouse']",6835.839999999999
+"['Warehouse', 'New World Birkenhead', 'New World New Lynn', 'Warehouse']",5392.05
+"['Warehouse', 'New World Milford', 'New World Birkenhead', 'Warehouse']",5590.91
+"['Warehouse', 'New World Long Bay', 'New World Birkenhead', 'Warehouse']",7245.93
+"['Warehouse', 'New World Devonport', 'New World Green Bay', 'Warehouse']",6734.04
+"['Warehouse', 'New World Victoria Park', 'New World Green Bay', 'Warehouse']",4124.35
+"['Warehouse', 'New World Birkenhead', 'New World Victoria Park', 'Warehouse']",4619.400000000001
+"['Warehouse', 'New World Long Bay', 'New World Victoria Park', 'Warehouse']",6452.839999999999
+"['Warehouse', 'New World Long Bay', 'New World Metro Queen St', 'Warehouse']",6625.889999999999
+"['Warehouse', 'New World Metro Queen St', 'New World Victoria Park', 'Warehouse']",3274.64
+"['Warehouse', 'New World Birkenhead', 'New World Metro Queen St', 'Warehouse']",4792.46
+"['Warehouse', 'New World Long Bay', 'New World Mt Roskill', 'Warehouse']",6365.119999999999
+"['Warehouse', 'New World Birkenhead', 'New World Mt Roskill', 'Warehouse']",4531.68
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'Four Square Pakuranga Heights', 'New World Stonefields', 'Warehouse']",4805.55
+"['Warehouse', 'New World Botany', 'New World Eastridge', 'Warehouse']",6080.72
+"['Warehouse', 'New World Howick', 'New World Papakura', 'Warehouse']",7516.1900000000005
+"['Warehouse', 'New World Howick', 'New World Botany', 'Warehouse']",5704.21
+"['Warehouse', 'New World Papakura', 'New World Eastridge', 'Warehouse']",6926.4
+"['Warehouse', 'New World Papatoetoe', 'New World Remuera', 'Warehouse']",4453.53
+"['Warehouse', 'New World Southmall', 'New World Papatoetoe', 'Warehouse']",4673.59
+"['Warehouse', 'New World Southmall', 'New World Remuera', 'Warehouse']",5091.37
+"['Warehouse', 'Four Square Great Eastern', 'New World Stonefields', 'Warehouse']",4551.46
+"['Warehouse', 'New World Papakura', 'Four Square Everglade', 'Warehouse']",5618.05
+"['Warehouse', 'New World Howick', 'Four Square Ellerslie', 'Warehouse']",5675.86
+"['Warehouse', 'Four Square Botany Junction', 'New World Eastridge', 'Warehouse']",5966.59
+"['Warehouse', 'New World Botany', 'New World Papatoetoe', 'Warehouse']",5234.25
+"['Warehouse', 'New World Stonefields', 'New World Papatoetoe', 'Warehouse']",4780.56
+"['Warehouse', 'New World Eastridge', 'New World Remuera', 'Warehouse']",4026.57
+"['Warehouse', 'New World Southmall', 'New World Stonefields', 'Warehouse']",5430.2699999999995
+"['Warehouse', 'New World Botany', 'New World Stonefields', 'Warehouse']",5587.700000000001
+"['Warehouse', 'New World Eastridge', 'New World Stonefields', 'Warehouse']",4486.17
+"['Warehouse', 'New World Eastridge', 'New World Papatoetoe', 'Warehouse']",5322.610000000001
+"['Warehouse', 'New World Howick', 'New World Papatoetoe', 'Warehouse']",5917.4
+"['Warehouse', 'New World Howick', 'New World Stonefields', 'Warehouse']",5838.530000000001
+"['Warehouse', 'New World Howick', 'New World Eastridge', 'Warehouse']",6331.55
+"['Warehouse', 'New World Stonefields', 'New World Remuera', 'Warehouse']",3851.68
+"['Warehouse', 'New World Papakura', 'New World Papatoetoe', 'Warehouse']",5673.86
+"['Warehouse', 'New World Southmall', 'New World Eastridge', 'Warehouse']",5940.87
+"['Warehouse', 'New World Papakura', 'New World Stonefields', 'Warehouse']",6415.8
+"['Warehouse', 'New World Papakura', 'New World Remuera', 'Warehouse']",6076.9
+"['Warehouse', 'New World Howick', 'New World Remuera', 'Warehouse']",5797.0
+"['Warehouse', 'New World Botany', 'New World Remuera', 'Warehouse']",5450.6900000000005
+"['Warehouse', 'New World Botany', 'New World Southmall', 'Warehouse']",5701.97
+"['Warehouse', 'New World Howick', 'New World Southmall', 'Warehouse']",6385.13
+"['Warehouse', 'New World Papakura', 'New World Southmall', 'Warehouse']",5536.96
+"['Warehouse', 'New World Papakura', 'New World Botany', 'Warehouse']",6753.87
+"['Warehouse', 'Four Square Cockle Bay', 'New World Remuera', 'Warehouse']",6099.2
+"['Warehouse', 'Four Square Botany Junction', 'New World Stonefields', 'Warehouse']",5455.98
+"['Warehouse', 'New World Howick', 'Four Square Great Eastern', 'Warehouse']",6182.75
+"['Warehouse', 'Four Square Botany Junction', 'New World Papatoetoe', 'Warehouse']",4619.54
+"['Warehouse', 'New World Papatoetoe', 'Four Square Ellerslie', 'Warehouse']",4332.389999999999
+"['Warehouse', 'New World Howick', 'Four Square Botany Junction', 'Warehouse']",5773.34
+"['Warehouse', 'New World Howick', 'Four Square Everglade', 'Warehouse']",5877.96
+"['Warehouse', 'Four Square Everglade', 'New World Eastridge', 'Warehouse']",5614.54
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",3097.63
+"['Warehouse', 'Four Square Lancaster', 'New World New Lynn', 'Warehouse']",5973.889999999999
+"['Warehouse', 'Four Square Hobsonville', 'New World Mt Roskill', 'Warehouse']",4261.97
+"['Warehouse', 'New World Milford', 'Four Square Glen Eden', 'Warehouse']",6314.0
+"['Warehouse', 'Four Square BKs Torbay', 'New World Metro Queen St', 'Warehouse']",6535.59
+"['Warehouse', 'New World Albany', 'New World Birkenhead', 'Warehouse']",6242.58
+"['Warehouse', 'New World Browns Bay', 'New World Devonport', 'Warehouse']",7628.339999999999
+"['Warehouse', 'New World Browns Bay', 'New World Albany', 'Warehouse']",6120.139999999999
+"['Warehouse', 'New World Devonport', 'New World Birkenhead', 'Warehouse']",6637.39
+"['Warehouse', 'New World Long Bay', 'New World Green Bay', 'Warehouse']",7396.379999999999
+"['Warehouse', 'New World Victoria Park', 'New World Green Bay', 'Warehouse']",4124.35
+"['Warehouse', 'New World Victoria Park', 'New World Mt Roskill', 'Warehouse']",3066.1800000000003
+"['Warehouse', 'New World Milford', 'New World Victoria Park', 'Warehouse']",4846.77
+"['Warehouse', 'New World Metro Queen St', 'New World Victoria Park', 'Warehouse']",3274.64
+"['Warehouse', 'New World Long Bay', 'New World Victoria Park', 'Warehouse']",6452.839999999999
+"['Warehouse', 'New World Victoria Park', 'New World New Lynn', 'Warehouse']",3950.21
+"['Warehouse', 'New World Albany', 'New World Victoria Park', 'Warehouse']",5449.49
+"['Warehouse', 'New World Green Bay', 'New World Mt Roskill', 'Warehouse']",2432.26
+"['Warehouse', 'New World Milford', 'New World New Lynn', 'Warehouse']",5619.42
+"['Warehouse', 'New World Metro Queen St', 'New World New Lynn', 'Warehouse']",4046.88
+"['Warehouse', 'New World Long Bay', 'New World New Lynn', 'Warehouse']",7225.49
+"['Warehouse', 'New World Green Bay', 'New World New Lynn', 'Warehouse']",2712.54
+"['Warehouse', 'New World Birkenhead', 'New World New Lynn', 'Warehouse']",5392.05
+"['Warehouse', 'New World Devonport', 'New World New Lynn', 'Warehouse']",6563.15
+"['Warehouse', 'New World Browns Bay', 'New World New Lynn', 'Warehouse']",6814.460000000001
+"['Warehouse', 'New World Albany', 'New World New Lynn', 'Warehouse']",6191.76
+"['Warehouse', 'New World New Lynn', 'New World Mt Roskill', 'Warehouse']",2403.88
+"['Warehouse', 'New World Milford', 'New World Green Bay', 'Warehouse']",5790.3099999999995
+"['Warehouse', 'New World Birkenhead', 'New World Green Bay', 'Warehouse']",5562.9400000000005
+"['Warehouse', 'New World Metro Queen St', 'New World Green Bay', 'Warehouse']",4217.77
+"['Warehouse', 'New World Browns Bay', 'New World Green Bay', 'Warehouse']",6986.29
+"['Warehouse', 'New World Browns Bay', 'New World Milford', 'Warehouse']",6182.429999999999
+"['Warehouse', 'New World Milford', 'New World Birkenhead', 'Warehouse']",5590.91
+"['Warehouse', 'New World Long Bay', 'New World Birkenhead', 'Warehouse']",7245.93
+"['Warehouse', 'New World Browns Bay', 'New World Birkenhead', 'Warehouse']",6835.839999999999
+"['Warehouse', 'New World Long Bay', 'New World Milford', 'Warehouse']",6894.370000000001
+"['Warehouse', 'New World Long Bay', 'New World Metro Queen St', 'Warehouse']",6625.889999999999
+"['Warehouse', 'New World Milford', 'New World Metro Queen St', 'Warehouse']",5019.820000000001
+"['Warehouse', 'New World Birkenhead', 'New World Metro Queen St', 'Warehouse']",4792.46
+"['Warehouse', 'New World Long Bay', 'New World Browns Bay', 'Warehouse']",6569.2
+"['Warehouse', 'New World Browns Bay', 'New World Metro Queen St', 'Warehouse']",6215.799999999999
+"['Warehouse', 'New World Browns Bay', 'New World Mt Roskill', 'Warehouse']",5955.02
+"['Warehouse', 'New World Browns Bay', 'New World Victoria Park', 'Warehouse']",6042.75
+"['Warehouse', 'New World Devonport', 'New World Albany', 'Warehouse']",7081.89
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'Four Square Pakuranga Heights', 'New World Stonefields', 'Warehouse']",4805.55
+"['Warehouse', 'Four Square Great Eastern', 'New World Southmall', 'Warehouse']",6059.67
+"['Warehouse', 'Four Square Everglade', 'New World Remuera', 'Warehouse']",4765.03
+"['Warehouse', 'New World Papatoetoe', 'Four Square Ellerslie', 'Warehouse']",4332.389999999999
+"['Warehouse', 'New World Papakura', 'Four Square Botany Junction', 'Warehouse']",6073.69
+"['Warehouse', 'New World Botany', 'New World Eastridge', 'Warehouse']",6080.72
+"['Warehouse', 'New World Howick', 'New World Botany', 'Warehouse']",5704.21
+"['Warehouse', 'New World Eastridge', 'New World Stonefields', 'Warehouse']",4486.17
+"['Warehouse', 'New World Southmall', 'New World Remuera', 'Warehouse']",5091.37
+"['Warehouse', 'New World Papakura', 'New World Remuera', 'Warehouse']",6076.9
+"['Warehouse', 'New World Papatoetoe', 'New World Remuera', 'Warehouse']",4453.53
+"['Warehouse', 'New World Howick', 'New World Remuera', 'Warehouse']",5797.0
+"['Warehouse', 'New World Botany', 'New World Stonefields', 'Warehouse']",5587.700000000001
+"['Warehouse', 'New World Southmall', 'New World Stonefields', 'Warehouse']",5430.2699999999995
+"['Warehouse', 'New World Stonefields', 'New World Remuera', 'Warehouse']",3851.68
+"['Warehouse', 'New World Stonefields', 'New World Papatoetoe', 'Warehouse']",4780.56
+"['Warehouse', 'New World Eastridge', 'New World Papatoetoe', 'Warehouse']",5322.610000000001
+"['Warehouse', 'New World Papakura', 'New World Stonefields', 'Warehouse']",6415.8
+"['Warehouse', 'New World Howick', 'New World Stonefields', 'Warehouse']",5838.530000000001
+"['Warehouse', 'New World Eastridge', 'New World Remuera', 'Warehouse']",4026.57
+"['Warehouse', 'New World Botany', 'New World Remuera', 'Warehouse']",5450.6900000000005
+"['Warehouse', 'New World Southmall', 'New World Papatoetoe', 'Warehouse']",4673.59
+"['Warehouse', 'New World Howick', 'New World Papatoetoe', 'Warehouse']",5917.4
+"['Warehouse', 'New World Howick', 'New World Eastridge', 'Warehouse']",6331.55
+"['Warehouse', 'New World Papakura', 'New World Papatoetoe', 'Warehouse']",5673.86
+"['Warehouse', 'New World Botany', 'New World Papatoetoe', 'Warehouse']",5234.25
+"['Warehouse', 'New World Papakura', 'New World Southmall', 'Warehouse']",5536.96
+"['Warehouse', 'New World Botany', 'New World Southmall', 'Warehouse']",5701.97
+"['Warehouse', 'New World Southmall', 'New World Eastridge', 'Warehouse']",5940.87
+"['Warehouse', 'New World Papakura', 'New World Eastridge', 'Warehouse']",6926.4
+"['Warehouse', 'New World Howick', 'New World Southmall', 'Warehouse']",6385.13
+"['Warehouse', 'New World Papakura', 'New World Botany', 'Warehouse']",6753.87
+"['Warehouse', 'New World Botany', 'Four Square Botany Junction', 'Warehouse']",5090.19
+"['Warehouse', 'New World Howick', 'New World Papakura', 'Warehouse']",7516.1900000000005
+"['Warehouse', 'Four Square Cockle Bay', 'New World Papakura', 'Warehouse']",7652.419999999998
+"['Warehouse', 'New World Howick', 'Four Square Botany Junction', 'Warehouse']",5773.34
+"['Warehouse', 'New World Papakura', 'Four Square Ellerslie', 'Warehouse']",5955.759999999999
+"['Warehouse', 'Four Square Cockle Bay', 'New World Howick', 'Warehouse']",5694.099999999999
+"['Warehouse', 'New World Botany', 'Four Square Ellerslie', 'Warehouse']",5329.549999999999
+"['Warehouse', 'Four Square Botany Junction', 'New World Papatoetoe', 'Warehouse']",4619.54
+"['Warehouse', 'New World Howick', 'Four Square Everglade', 'Warehouse']",5877.96
+"['Warehouse', ""Pak 'n Save Westgate"", 'Warehouse']",3511.82
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Warehouse']",4201.3
+"['Warehouse', ""Pak 'n Save Mt Albert"", 'Warehouse']",1341.92
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3154.06
+"['Warehouse', ""Pak 'n Save Albany"", 'Warehouse']",4849.26
+"['Warehouse', ""Pak 'n Save Henderson"", 'Warehouse']",3511.2
+"['Warehouse', 'New World Albany', 'New World Birkenhead', 'Warehouse']",6242.58
+"['Warehouse', 'New World Browns Bay', 'New World Devonport', 'Warehouse']",7628.339999999999
+"['Warehouse', 'New World Browns Bay', 'New World Albany', 'Warehouse']",6120.139999999999
+"['Warehouse', 'New World Devonport', 'New World Birkenhead', 'Warehouse']",6637.39
+"['Warehouse', 'New World Long Bay', 'New World Green Bay', 'Warehouse']",7396.379999999999
+"['Warehouse', 'New World Milford', 'New World Metro Queen St', 'Warehouse']",5019.820000000001
+"['Warehouse', 'New World Metro Queen St', 'New World Green Bay', 'Warehouse']",4217.77
+"['Warehouse', 'New World Long Bay', 'New World Milford', 'Warehouse']",6894.370000000001
+"['Warehouse', 'New World New Lynn', 'New World Mt Roskill', 'Warehouse']",2403.88
+"['Warehouse', 'New World Victoria Park', 'New World Mt Roskill', 'Warehouse']",3066.1800000000003
+"['Warehouse', 'New World Victoria Park', 'New World New Lynn', 'Warehouse']",3950.21
+"['Warehouse', 'New World Long Bay', 'New World Albany', 'Warehouse']",6579.700000000001
+"['Warehouse', 'New World Devonport', 'New World Albany', 'Warehouse']",7081.89
+"['Warehouse', 'New World Long Bay', 'New World Browns Bay', 'Warehouse']",6569.2
+"['Warehouse', 'New World Browns Bay', 'New World Green Bay', 'Warehouse']",6986.29
+"['Warehouse', 'New World Devonport', 'New World Green Bay', 'Warehouse']",6734.04
+"['Warehouse', 'New World Metro Queen St', 'New World Mt Roskill', 'Warehouse']",3186.5
+"['Warehouse', 'New World Metro Queen St', 'New World New Lynn', 'Warehouse']",4046.88
+"['Warehouse', 'New World Birkenhead', 'New World Victoria Park', 'Warehouse']",4619.400000000001
+"['Warehouse', 'New World Birkenhead', 'New World Mt Roskill', 'Warehouse']",4531.68
+"['Warehouse', 'New World Milford', 'New World Victoria Park', 'Warehouse']",4846.77
+"['Warehouse', 'New World Albany', 'New World Green Bay', 'Warehouse']",6393.030000000001
+"['Warehouse', 'New World Long Bay', 'New World Devonport', 'Warehouse']",8138.38
+"['Warehouse', 'New World Browns Bay', 'New World Victoria Park', 'Warehouse']",6042.75
+"['Warehouse', 'New World Birkenhead', 'New World Metro Queen St', 'Warehouse']",4792.46
+"['Warehouse', 'New World Milford', 'New World Mt Roskill', 'Warehouse']",4759.05
+"['Warehouse', 'New World Milford', 'New World New Lynn', 'Warehouse']",5619.42
+"['Warehouse', 'New World Browns Bay', 'New World Birkenhead', 'Warehouse']",6835.839999999999
+"['Warehouse', 'New World Albany', 'New World Metro Queen St', 'Warehouse']",5622.55
+"['Warehouse', 'New World Long Bay', 'New World Victoria Park', 'Warehouse']",6452.839999999999
+"['Warehouse', 'New World Devonport', 'New World Mt Roskill', 'Warehouse']",5702.78
+"['Warehouse', 'New World Green Bay', 'New World New Lynn', 'Warehouse']",2712.54
+"['Warehouse', 'New World Birkenhead', 'New World Green Bay', 'Warehouse']",5562.9400000000005
+"['Warehouse', 'New World Long Bay', 'New World Birkenhead', 'Warehouse']",7245.93
+"['Warehouse', 'New World Milford', 'New World Birkenhead', 'Warehouse']",5590.91
+"['Warehouse', 'New World Devonport', 'New World Metro Queen St', 'Warehouse']",5963.55
+"['Warehouse', 'New World Victoria Park', 'New World Green Bay', 'Warehouse']",4124.35
+"['Warehouse', 'New World Browns Bay', 'New World Metro Queen St', 'Warehouse']",6215.799999999999
+"['Warehouse', 'New World Long Bay', 'New World Metro Queen St', 'Warehouse']",6625.889999999999
+"['Warehouse', 'New World Albany', 'New World Victoria Park', 'Warehouse']",5449.49
+"['Warehouse', 'New World Albany', 'New World Mt Roskill', 'Warehouse']",5361.77
+"['Warehouse', 'New World Browns Bay', 'New World Mt Roskill', 'Warehouse']",5955.02
+"['Warehouse', 'New World Devonport', 'New World New Lynn', 'Warehouse']",6563.15
+"['Warehouse', 'New World Albany', 'New World Milford', 'Warehouse']",5912.16
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Warehouse']",3273.52
+"['Warehouse', ""Pak 'n Save Royal Oak"", 'Warehouse']",1898.04
+"['Warehouse', ""Pak 'n Save Papakura"", 'Warehouse']",4786.3
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Warehouse']",4381.1
+"['Warehouse', ""Pak 'n Save Manukau"", 'Warehouse']",3439.28
+"['Warehouse', ""Pak 'n Save Mangere"", 'Warehouse']",2483.32
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Warehouse']",4172.280000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Warehouse']",4641.88
+"['Warehouse', ""Pak 'n Save Clendon"", 'Warehouse']",3751.94
+"['Warehouse', 'New World Botany', 'New World Eastridge', 'Warehouse']",6080.72
+"['Warehouse', 'New World Howick', 'New World Papakura', 'Warehouse']",7516.1900000000005
+"['Warehouse', 'New World Howick', 'New World Botany', 'Warehouse']",5704.21
+"['Warehouse', 'New World Papakura', 'New World Eastridge', 'Warehouse']",6926.4
+"['Warehouse', 'New World Papatoetoe', 'New World Remuera', 'Warehouse']",4453.53
+"['Warehouse', 'New World Southmall', 'New World Stonefields', 'Warehouse']",5430.2699999999995
+"['Warehouse', 'New World Southmall', 'New World Papatoetoe', 'Warehouse']",4673.59
+"['Warehouse', 'New World Stonefields', 'New World Remuera', 'Warehouse']",3851.68
+"['Warehouse', 'New World Botany', 'New World Remuera', 'Warehouse']",5450.6900000000005
+"['Warehouse', 'New World Papakura', 'New World Botany', 'Warehouse']",6753.87
+"['Warehouse', 'New World Howick', 'New World Remuera', 'Warehouse']",5797.0
+"['Warehouse', 'New World Howick', 'New World Papatoetoe', 'Warehouse']",5917.4
+"['Warehouse', 'New World Papakura', 'New World Papatoetoe', 'Warehouse']",5673.86
+"['Warehouse', 'New World Southmall', 'New World Eastridge', 'Warehouse']",5940.87
+"['Warehouse', 'New World Eastridge', 'New World Stonefields', 'Warehouse']",4486.17
+"['Warehouse', 'New World Botany', 'New World Papatoetoe', 'Warehouse']",5234.25
+"['Warehouse', 'New World Papakura', 'New World Remuera', 'Warehouse']",6076.9
+"['Warehouse', 'New World Howick', 'New World Southmall', 'Warehouse']",6385.13
+"['Warehouse', 'New World Botany', 'New World Southmall', 'Warehouse']",5701.97
+"['Warehouse', 'New World Botany', 'New World Stonefields', 'Warehouse']",5587.700000000001
+"['Warehouse', 'New World Howick', 'New World Stonefields', 'Warehouse']",5838.530000000001
+"['Warehouse', 'New World Southmall', 'New World Remuera', 'Warehouse']",5091.37
+"['Warehouse', 'New World Eastridge', 'New World Papatoetoe', 'Warehouse']",5322.610000000001
+"['Warehouse', 'New World Stonefields', 'New World Papatoetoe', 'Warehouse']",4780.56
+"['Warehouse', 'New World Howick', 'New World Eastridge', 'Warehouse']",6331.55
+"['Warehouse', 'New World Eastridge', 'New World Remuera', 'Warehouse']",4026.57
+"['Warehouse', 'New World Papakura', 'New World Southmall', 'Warehouse']",5536.96
+"['Warehouse', 'New World Papakura', 'New World Stonefields', 'Warehouse']",6415.8
+"['Warehouse', 'New World Howick', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Warehouse']",6296.57
+"['Warehouse', 'New World Papakura', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Warehouse']",8225.57
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Cockle Bay', 'New World Eastridge', 'Warehouse']",7227.97
+"['Warehouse', 'Four Square Everglade', 'New World Eastridge', 'Four Square Ellerslie', 'Warehouse']",6323.52
+"['Warehouse', 'Four Square Great Eastern', 'New World Howick', 'Four Square Pakuranga Heights', 'Warehouse']",6572.240000000001
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'New World Papatoetoe', 'Warehouse']",6191.09
+"['Warehouse', 'Four Square Great Eastern', 'New World Botany', 'Four Square Pakuranga Heights', 'Warehouse']",6331.850000000001
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Botany Junction', 'New World Papatoetoe', 'Warehouse']",6510.139999999999
+"['Warehouse', 'New World Papatoetoe', 'Four Square Everglade', 'Four Square Ellerslie', 'Warehouse']",5373.9
+"['Warehouse', 'Four Square Everglade', 'New World Howick', 'Four Square Ellerslie', 'Warehouse']",6554.389999999999
+"['Warehouse', 'New World Papatoetoe', 'Four Square Botany Junction', 'Four Square Ellerslie', 'Warehouse']",5540.23
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', 'New World Stonefields', 'Warehouse']",5582.91
+"['Warehouse', 'Four Square Great Eastern', 'New World Papakura', 'Four Square Botany Junction', 'Warehouse']",8275.14
+"['Warehouse', ""Pak 'n Save Westgate"", 'Fresh Collective Alberton', 'Warehouse']",4071.45
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Fresh Collective Alberton', 'Warehouse']",4700.530000000001
+"['Warehouse', 'Fresh Collective Alberton', ""Pak 'n Save Mt Albert"", 'Warehouse']",2326.6400000000003
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Fresh Collective Alberton', 'Warehouse']",3721.0599999999995
+"['Warehouse', ""Pak 'n Save Albany"", 'Fresh Collective Alberton', 'Warehouse']",5349.83
+"['Warehouse', ""Pak 'n Save Henderson"", 'Fresh Collective Alberton', 'Warehouse']",4067.05
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Lancaster', 'Warehouse']",6260.3099999999995
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Henderson"", 'Warehouse']",5243.11
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Four Square Glen Eden', 'Warehouse']",4286.4
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Westgate"", 'Warehouse']",6767.14
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Westgate"", 'Warehouse']",4613.47
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Westgate"", 'Warehouse']",5994.679999999999
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Lincoln Road"", 'Warehouse']",6152.15
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Henderson"", 'Warehouse']",6742.9
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Mt Albert"", 'Warehouse']",5344.3
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Wairau Road"", 'Warehouse']",5418.8
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Henderson"", 'Warehouse']",7515.360000000001
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Lincoln Road"", 'Warehouse']",6924.610000000001
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Albany"", 'Warehouse']",6453.37
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Mt Albert"", 'Warehouse']",6505.59
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Wairau Road"", 'Warehouse']",6516.570000000001
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Mt Albert"", 'Warehouse']",4079.5
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Fair Price Henderson', 'Warehouse']",6259.88
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square Fair Price Henderson', 'Warehouse']",6021.0
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3877.44
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Henderson"", 'Warehouse']",4200.65
+"['Warehouse', ""Pak 'n Save Henderson"", 'Four Square Glen Eden', 'Warehouse']",4103.25
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Lincoln Road"", 'Warehouse']",4652.349999999999
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Glen Eden', 'Warehouse']",6474.88
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Hobsonville', 'Warehouse']",5740.6
+"['Warehouse', 'Four Square Glen Eden', ""Pak 'n Save Mt Albert"", 'Warehouse']",3490.46
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Mt Albert"", 'Warehouse']",4492.75
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square Glen Eden', 'Warehouse']",6164.21
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square Hobsonville', 'Warehouse']",5501.72
+"['Warehouse', ""Pak 'n Save Westgate"", 'Four Square Glen Eden', 'Warehouse']",4805.0
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Westgate"", 'Warehouse']",4494.879999999999
+"['Warehouse', 'New World Albany', 'New World Birkenhead', 'Warehouse']",6242.58
+"['Warehouse', 'New World Browns Bay', 'New World Devonport', 'Warehouse']",7628.339999999999
+"['Warehouse', 'New World Browns Bay', 'New World Albany', 'Warehouse']",6120.139999999999
+"['Warehouse', 'New World Devonport', 'New World Birkenhead', 'Warehouse']",6637.39
+"['Warehouse', 'New World Long Bay', 'New World Green Bay', 'Warehouse']",7396.379999999999
+"['Warehouse', 'New World Devonport', 'New World Albany', 'Warehouse']",7081.89
+"['Warehouse', 'New World Milford', 'New World Metro Queen St', 'Warehouse']",5019.820000000001
+"['Warehouse', 'New World Metro Queen St', 'New World Green Bay', 'Warehouse']",4217.77
+"['Warehouse', 'New World Long Bay', 'New World Albany', 'Warehouse']",6579.700000000001
+"['Warehouse', 'New World Long Bay', 'New World Devonport', 'Warehouse']",8138.38
+"['Warehouse', 'New World Long Bay', 'New World Milford', 'Warehouse']",6894.370000000001
+"['Warehouse', 'New World Browns Bay', 'New World Birkenhead', 'Warehouse']",6835.839999999999
+"['Warehouse', 'New World Victoria Park', 'New World Green Bay', 'Warehouse']",4124.35
+"['Warehouse', 'New World Long Bay', 'New World Birkenhead', 'Warehouse']",7245.93
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Sylvia Park"", 'Warehouse']",4528.58
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Royal Oak"", 'Warehouse']",4462.4400000000005
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Pakuranga Heights', 'Warehouse']",6506.31
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Pakuranga Heights', 'Warehouse']",5405.33
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Manukau"", 'Warehouse']",5091.73
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Mangere"", 'Warehouse']",5195.4400000000005
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Pakuranga Heights', 'Warehouse']",5222.24
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Pakuranga Heights', 'Warehouse']",5045.14
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Clendon"", 'Warehouse']",5965.8099999999995
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Mangere"", 'Warehouse']",5469.700000000001
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Everglade', 'Warehouse']",5488.110000000001
+"['Warehouse', ""Pak 'n Save Clendon"", 'Four Square Ellerslie', 'Warehouse']",5297.16
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Mangere"", 'Warehouse']",4921.95
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Sylvia Park"", 'Warehouse']",5956.09
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Sylvia Park"", 'Warehouse']",4993.68
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Botany Junction', 'Warehouse']",5943.75
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Manukau"", 'Warehouse']",4532.860000000001
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Botany Junction', 'Warehouse']",4777.99
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Botany Junction', 'Warehouse']",5148.61
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Clendon"", 'Warehouse']",5344.01
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Botany Junction', 'Warehouse']",6019.1900000000005
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Royal Oak"", 'Warehouse']",4973.79
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Ormiston"", 'Warehouse']",6213.55
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Glen Innes"", 'Warehouse']",6538.91
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Mangere"", 'Warehouse']",6397.379999999999
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Manukau"", 'Warehouse']",6011.93
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Papakura"", 'Warehouse']",7504.01
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Clendon"", 'Warehouse']",6823.08
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Botany"", 'Warehouse']",5819.85
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Royal Oak"", 'Warehouse']",5889.950000000001
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Royal Oak"", 'Warehouse']",4578.650000000001
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Sylvia Park"", 'Warehouse']",4643.280000000001
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Great Eastern', 'Warehouse']",6873.8
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Clendon"", 'Warehouse']",6408.33
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Manukau"", 'Warehouse']",5534.26
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Great Eastern', 'Warehouse']",5908.450000000001
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Great Eastern', 'Warehouse']",4519.72
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Great Eastern', 'Warehouse']",6268.64
+"['Warehouse', 'Four Square Everglade', ""Pak 'n Save Sylvia Park"", 'Warehouse']",4641.63
+"['Warehouse', ""Pak 'n Save Clendon"", 'Four Square Everglade', 'Warehouse']",4707.66
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Ellerslie', 'Warehouse']",5350.93
+"['Warehouse', 'Four Square Ellerslie', ""Pak 'n Save Mangere"", 'Warehouse']",4231.69
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Ellerslie', 'Warehouse']",5825.83
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Four Square Ellerslie', 'Warehouse']",3781.8
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Ellerslie', 'Warehouse']",5306.08
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Ellerslie', 'Warehouse']",4563.97
+"['Warehouse', ""Pak 'n Save Manukau"", 'Four Square Ellerslie', 'Warehouse']",4435.62
+"['Warehouse', 'Four Square Ellerslie', ""Pak 'n Save Royal Oak"", 'Warehouse']",3219.93
+"['Warehouse', 'Four Square Everglade', ""Pak 'n Save Royal Oak"", 'Warehouse']",4542.2
+"['Warehouse', 'Four Square Everglade', ""Pak 'n Save Manukau"", 'Warehouse']",4173.82
+"['Warehouse', ""Pak 'n Save Westgate"", 'Fresh Collective Alberton', 'Warehouse']",4071.45
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Fresh Collective Alberton', 'Warehouse']",4700.530000000001
+"['Warehouse', 'Fresh Collective Alberton', ""Pak 'n Save Mt Albert"", 'Warehouse']",2326.6400000000003
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Fresh Collective Alberton', 'Warehouse']",3721.0599999999995
+"['Warehouse', ""Pak 'n Save Albany"", 'Fresh Collective Alberton', 'Warehouse']",5349.83
+"['Warehouse', ""Pak 'n Save Henderson"", 'Fresh Collective Alberton', 'Warehouse']",4067.05
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Lancaster', 'Warehouse']",6260.3099999999995
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Henderson"", 'Warehouse']",5243.11
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Four Square Glen Eden', 'Warehouse']",4286.4
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Westgate"", 'Warehouse']",6767.14
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Mt Albert"", 'Warehouse']",4079.5
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Lincoln Road"", 'Warehouse']",3877.44
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square Glen Eden', 'Warehouse']",6164.21
+"['Warehouse', ""Pak 'n Save Westgate"", 'Four Square Glen Eden', 'Warehouse']",4805.0
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square Fair Price Henderson', 'Warehouse']",6021.0
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Glen Eden', 'Warehouse']",6474.88
+"['Warehouse', 'Four Square Glen Eden', ""Pak 'n Save Mt Albert"", 'Warehouse']",3490.46
+"['Warehouse', ""Pak 'n Save Henderson"", 'Four Square Glen Eden', 'Warehouse']",4103.25
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Westgate"", 'Warehouse']",5994.679999999999
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Wairau Road"", 'Warehouse']",5418.8
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Henderson"", 'Warehouse']",4200.65
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Henderson"", 'Warehouse']",7515.360000000001
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Henderson"", 'Warehouse']",6742.9
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Lincoln Road"", 'Warehouse']",6152.15
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Lincoln Road"", 'Warehouse']",6924.610000000001
+"['Warehouse', 'Four Square Lancaster', ""Pak 'n Save Mt Albert"", 'Warehouse']",5344.3
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Fair Price Henderson', 'Warehouse']",6259.88
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Albany"", 'Warehouse']",6453.37
+"['Warehouse', 'Four Square Fair Price Henderson', ""Pak 'n Save Westgate"", 'Warehouse']",4613.47
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Hobsonville', 'Warehouse']",5740.6
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Mt Albert"", 'Warehouse']",4492.75
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Wairau Road"", 'Warehouse']",6516.570000000001
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Westgate"", 'Warehouse']",4494.879999999999
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Mt Albert"", 'Warehouse']",6505.59
+"['Warehouse', 'New World Albany', 'New World Birkenhead', 'Warehouse']",6242.58
+"['Warehouse', 'New World Browns Bay', 'New World Devonport', 'Warehouse']",7628.339999999999
+"['Warehouse', 'New World Browns Bay', 'New World Albany', 'Warehouse']",6120.139999999999
+"['Warehouse', 'New World Devonport', 'New World Birkenhead', 'Warehouse']",6637.39
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Lincoln Road"", 'Warehouse']",4652.349999999999
+"['Warehouse', 'New World Browns Bay', 'New World Birkenhead', 'Warehouse']",6835.839999999999
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square Hobsonville', 'Warehouse']",5501.72
+"['Warehouse', 'New World Long Bay', 'New World Green Bay', 'Warehouse']",7396.379999999999
+"['Warehouse', 'New World Milford', 'New World Metro Queen St', 'Warehouse']",5019.820000000001
+"['Warehouse', 'New World Devonport', 'New World Albany', 'Warehouse']",7081.89
+"['Warehouse', 'New World Metro Queen St', 'New World Green Bay', 'Warehouse']",4217.77
+"['Warehouse', 'New World Long Bay', 'New World Milford', 'Warehouse']",6894.370000000001
+"['Warehouse', 'New World Albany', 'New World Green Bay', 'Warehouse']",6393.030000000001
+"['Warehouse', 'New World Birkenhead', 'New World Green Bay', 'Warehouse']",5562.9400000000005
+"['Warehouse', 'New World New Lynn', 'New World Mt Roskill', 'Warehouse']",2403.88
+"['Warehouse', 'New World Victoria Park', 'New World Mt Roskill', 'Warehouse']",3066.1800000000003
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Sylvia Park"", 'Warehouse']",4528.58
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Royal Oak"", 'Warehouse']",4462.4400000000005
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Pakuranga Heights', 'Warehouse']",6506.31
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Pakuranga Heights', 'Warehouse']",5405.33
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Manukau"", 'Warehouse']",5091.73
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Mangere"", 'Warehouse']",5195.4400000000005
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Pakuranga Heights', 'Warehouse']",5222.24
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Pakuranga Heights', 'Warehouse']",5045.14
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Clendon"", 'Warehouse']",5965.8099999999995
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Royal Oak"", 'Warehouse']",4578.650000000001
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Everglade', 'Warehouse']",5488.110000000001
+"['Warehouse', 'Four Square Ellerslie', ""Pak 'n Save Royal Oak"", 'Warehouse']",3219.93
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Royal Oak"", 'Warehouse']",4973.79
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Botany"", 'Warehouse']",5819.85
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Sylvia Park"", 'Warehouse']",4643.280000000001
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Great Eastern', 'Warehouse']",6873.8
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Great Eastern', 'Warehouse']",4519.72
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Ellerslie', 'Warehouse']",5825.83
+"['Warehouse', ""Pak 'n Save Sylvia Park"", 'Four Square Ellerslie', 'Warehouse']",3781.8
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Great Eastern', 'Warehouse']",6268.64
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Mangere"", 'Warehouse']",5469.700000000001
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Botany Junction', 'Warehouse']",5148.61
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Glen Innes"", 'Warehouse']",6538.91
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Great Eastern', 'Warehouse']",5908.450000000001
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Clendon"", 'Warehouse']",6823.08
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Royal Oak"", 'Warehouse']",5889.950000000001
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Ormiston"", 'Warehouse']",6213.55
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Sylvia Park"", 'Warehouse']",5956.09
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Manukau"", 'Warehouse']",6011.93
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Mangere"", 'Warehouse']",4921.95
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Clendon"", 'Warehouse']",5344.01
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Clendon"", 'Warehouse']",6408.33
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Botany Junction', 'Warehouse']",6019.1900000000005
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Botany Junction', 'Warehouse']",4777.99
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Papakura"", 'Warehouse']",7504.01
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Manukau"", 'Warehouse']",5534.26
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Mangere"", 'Warehouse']",6397.379999999999
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Manukau"", 'Warehouse']",4532.860000000001
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Botany Junction', 'Warehouse']",5943.75
+"['Warehouse', ""Pak 'n Save Clendon"", 'Four Square Ellerslie', 'Warehouse']",5297.16
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Ellerslie', 'Warehouse']",4563.97
+"['Warehouse', 'Four Square Ellerslie', ""Pak 'n Save Mangere"", 'Warehouse']",4231.69
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Ellerslie', 'Warehouse']",5306.08
+"['Warehouse', ""Pak 'n Save Manukau"", 'Four Square Ellerslie', 'Warehouse']",4435.62
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Sylvia Park"", 'Warehouse']",4993.68
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Everglade', 'Warehouse']",5860.72
+"['Warehouse', ""Pak 'n Save Ormiston"", 'Four Square Ellerslie', 'Warehouse']",5350.93
+"['Warehouse', 'Four Square Everglade', ""Pak 'n Save Mangere"", 'Warehouse']",4427.599999999999
+"['Warehouse', ""Pak 'n Save Botany"", 'Four Square Everglade', 'Warehouse']",5253.22
+"['Warehouse', ""Pak 'n Save Clendon"", 'Four Square Everglade', 'Warehouse']",4707.66
+"['Warehouse', 'Four Square Fair Price Henderson', 'Four Square BKs Torbay', ""Pak 'n Save Westgate"", 'Warehouse']",8256.56
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', 'Warehouse']",7994.209999999999
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', ""Pak 'n Save Mt Albert"", 'Warehouse']",7850.05
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', ""Pak 'n Save Lincoln Road"", 'Warehouse']",7647.990000000001
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Albany"", 'Four Square Fair Price Henderson', 'Warehouse']",7863.99
+"['Warehouse', 'Four Square BKs Torbay', 'Four Square Fair Price Henderson', ""Pak 'n Save Henderson"", 'Warehouse']",7971.200000000001
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Henderson"", 'Four Square Glen Eden', 'Warehouse']",5835.16
+"['Warehouse', ""Pak 'n Save Lincoln Road"", 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",6485.459999999999
+"['Warehouse', ""Pak 'n Save Albany"", 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",6627.6900000000005
+"['Warehouse', 'Fresh Collective Alberton', 'Four Square Lancaster', ""Pak 'n Save Mt Albert"", 'Warehouse']",5704.28
+"['Warehouse', ""Pak 'n Save Westgate"", 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",6318.4
+"['Warehouse', ""Pak 'n Save Wairau Road"", 'Four Square Lancaster', 'Fresh Collective Alberton', 'Warehouse']",5794.85
+"['Warehouse', 'Four Square Hobsonville', ""Pak 'n Save Lincoln Road"", 'Four Square Glen Eden', 'Warehouse']",5784.69
+"['Warehouse', 'Four Square BKs Torbay', ""Pak 'n Save Lincoln Road"", 'Four Square Glen Eden', 'Warehouse']",8056.95
+"['Warehouse', 'New World Birkenhead', 'New World Albany', 'Four Square Fair Price Henderson', 'Warehouse']",7652.49
+"['Warehouse', 'New World Devonport', 'New World Browns Bay', 'Four Square Glen Eden', 'Warehouse']",9316.970000000001
+"['Warehouse', 'New World Long Bay', 'Four Square Hobsonville', 'New World Green Bay', 'Warehouse']",8267.259999999998
+"['Warehouse', 'Four Square Hobsonville', 'New World Milford', 'New World Metro Queen St', 'Warehouse']",6364.64
+"['Warehouse', 'New World New Lynn', 'Four Square Hobsonville', 'New World Mt Roskill', 'Warehouse']",5241.82
+"['Warehouse', 'Four Square Hobsonville', 'New World Browns Bay', 'New World Victoria Park', 'Warehouse']",6928.3
+"['Warehouse', 'New World New Lynn', 'Four Square Lancaster', 'New World Mt Roskill', 'Warehouse']",6251.6900000000005
+"['Warehouse', 'New World Milford', 'Four Square Lancaster', 'New World Metro Queen St', 'Warehouse']",6395.820000000001
+"['Warehouse', 'New World Metro Queen St', 'New World Milford', 'Fresh Collective Alberton', 'Warehouse']",5451.53
+"['Warehouse', 'New World Albany', 'Four Square Lancaster', 'New World Birkenhead', 'Warehouse']",6778.3099999999995
+"['Warehouse', 'New World Albany', 'New World Birkenhead', 'Fresh Collective Alberton', 'Warehouse']",6564.95
+"['Warehouse', 'New World Green Bay', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",4523.750000000001
+"['Warehouse', 'New World Long Bay', 'New World Albany', 'Four Square Hobsonville', 'Warehouse']",7480.429999999999
+"['Warehouse', 'New World Browns Bay', 'Four Square Fair Price Henderson', 'New World Green Bay', 'Warehouse']",7910.660000000001
+"['Warehouse', 'New World New Lynn', 'Fresh Collective Alberton', 'New World Mt Roskill', 'Warehouse']",3195.2999999999997
+"['Warehouse', 'New World Victoria Park', 'Four Square Lancaster', 'New World Green Bay', 'Warehouse']",6596.56
+"['Warehouse', 'New World Metro Queen St', 'New World Long Bay', 'Fresh Collective Alberton', 'Warehouse']",7057.589999999999
+"['Warehouse', 'New World New Lynn', 'Four Square Glen Eden', 'New World Mt Roskill', 'Warehouse']",3649.55
+"['Warehouse', 'New World Devonport', 'Four Square Lancaster', 'New World Victoria Park', 'Warehouse']",7426.4400000000005
+"['Warehouse', 'New World Browns Bay', 'New World Victoria Park', 'Fresh Collective Alberton', 'Warehouse']",6442.28
+"['Warehouse', 'Four Square Lancaster', 'New World Birkenhead', 'New World Victoria Park', 'Warehouse']",5571.01
+"['Warehouse', 'Four Square Lancaster', 'New World Birkenhead', 'New World Mt Roskill', 'Warehouse']",5483.29
+"['Warehouse', 'New World Long Bay', 'Four Square Fair Price Henderson', 'New World New Lynn', 'Warehouse']",8177.33
+"['Warehouse', 'New World Long Bay', 'Four Square BKs Torbay', 'New World Green Bay', 'Warehouse']",7836.53
+"['Warehouse', 'New World Long Bay', 'Four Square BKs Torbay', 'New World Milford', 'Warehouse']",7207.81
+"['Warehouse', 'New World Milford', 'Four Square BKs Torbay', 'New World Green Bay', 'Warehouse']",8088.080000000001
+"['Warehouse', 'Four Square Hobsonville', 'Four Square Lancaster', ""Pak 'n Save Mt Albert"", 'Warehouse']",6414.46
+"['Warehouse', 'Four Square Lancaster', 'Four Square Hobsonville', ""Pak 'n Save Westgate"", 'Warehouse']",6658.569999999999
+"['Warehouse', 'Four Square Glen Eden', 'Four Square BKs Torbay', ""Pak 'n Save Mt Albert"", 'Warehouse']",8194.57
+"['Warehouse', 'Four Square Fair Price Henderson', 'New World Devonport', 'New World Metro Queen St', 'Warehouse']",8133.669999999999
+"['Warehouse', 'New World Devonport', 'New World Milford', 'Four Square Fair Price Henderson', 'Warehouse']",8073.07
+"['Warehouse', 'New World Devonport', 'Four Square Fair Price Henderson', 'New World Mt Roskill', 'Warehouse']",7784.86
+"['Warehouse', 'Four Square Fair Price Henderson', 'New World Devonport', 'New World Victoria Park', 'Warehouse']",7960.62
+"['Warehouse', 'Four Square Glen Eden', 'New World Devonport', 'New World Victoria Park', 'Warehouse']",7636.7300000000005
+"['Warehouse', 'Four Square Fair Price Henderson', 'New World Albany', 'New World Victoria Park', 'Warehouse']",6901.7300000000005
+"['Warehouse', 'New World Victoria Park', 'Four Square Fair Price Henderson', 'New World New Lynn', 'Warehouse']",5689.42
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Cockle Bay', ""Pak 'n Save Sylvia Park"", 'Warehouse']",6550.31
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Cockle Bay', ""Pak 'n Save Royal Oak"", 'Warehouse']",6484.17
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Warehouse']",8095.630000000001
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Ormiston"", 'Four Square Botany Junction', 'Warehouse']",6610.44
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Botany Junction', ""Pak 'n Save Manukau"", 'Warehouse']",6423.46
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Botany Junction', ""Pak 'n Save Mangere"", 'Warehouse']",6812.549999999999
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Cockle Bay', 'Four Square Botany Junction', 'Warehouse']",7188.460000000001
+"['Warehouse', 'Four Square Cockle Bay', ""Pak 'n Save Botany"", 'Four Square Botany Junction', 'Warehouse']",6326.579999999999
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Botany Junction', ""Pak 'n Save Clendon"", 'Warehouse']",7234.61
+"['Warehouse', 'Four Square Ellerslie', 'Four Square Everglade', ""Pak 'n Save Mangere"", 'Warehouse']",5550.22
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Warehouse']",5563.920000000001
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', ""Pak 'n Save Sylvia Park"", 'Warehouse']",5674.73
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Botany"", 'Four Square Pakuranga Heights', 'Warehouse']",6308.38
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', ""Pak 'n Save Clendon"", 'Warehouse']",7213.69
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Great Eastern', ""Pak 'n Save Royal Oak"", 'Warehouse']",5610.1
+"['Warehouse', 'Four Square Great Eastern', ""Pak 'n Save Ormiston"", 'Four Square Pakuranga Heights', 'Warehouse']",7265.5
+"['Warehouse', ""Pak 'n Save Papakura"", 'Four Square Great Eastern', 'Four Square Pakuranga Heights', 'Warehouse']",7918.0
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Pakuranga Heights', ""Pak 'n Save Manukau"", 'Warehouse']",6339.61
+"['Warehouse', 'Four Square Everglade', ""Pak 'n Save Glen Innes"", 'Four Square Ellerslie', 'Warehouse']",6137.5199999999995
+"['Warehouse', 'Four Square Botany Junction', ""Pak 'n Save Glen Innes"", 'Four Square Ellerslie', 'Warehouse']",6375.200000000001
+"['Warehouse', 'Four Square Botany Junction', 'Four Square Great Eastern', ""Pak 'n Save Royal Oak"", 'Warehouse']",6389.880000000001
+"['Warehouse', 'Four Square Great Eastern', 'Four Square Botany Junction', ""Pak 'n Save Clendon"", 'Warehouse']",7252.62
+"['Warehouse', 'Four Square Cockle Bay', 'Four Square Great Eastern', ""Pak 'n Save Royal Oak"", 'Warehouse']",6945.280000000001
+"['Warehouse', 'New World Botany', 'Four Square Great Eastern', 'New World Eastridge', 'Warehouse']",6463.7
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', ""Pak 'n Save Sylvia Park"", 'Warehouse']",6283.21
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Cockle Bay', 'Four Square Pakuranga Heights', 'Warehouse']",6934.160000000001
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Cockle Bay', ""Pak 'n Save Manukau"", 'Warehouse']",6339.049999999999
+"['Warehouse', 'Four Square Pakuranga Heights', 'Four Square Botany Junction', ""Pak 'n Save Manukau"", 'Warehouse']",5594.93
+"['Warehouse', 'New World Botany', 'Four Square Great Eastern', 'New World Stonefields', 'Warehouse']",6365.0599999999995
+"['Warehouse', 'New World Botany', 'Four Square Pakuranga Heights', 'New World Eastridge', 'Warehouse']",6452.54
+"['Warehouse', 'New World Southmall', 'Four Square Great Eastern', 'New World Stonefields', 'Warehouse']",6451.35
+"['Warehouse', 'New World Stonefields', 'Four Square Great Eastern', 'New World Remuera', 'Warehouse']",5008.49
+"['Warehouse', 'Four Square Everglade', 'Four Square Great Eastern', ""Pak 'n Save Sylvia Park"", 'Warehouse']",6216.83
+"['Warehouse', 'Four Square Everglade', ""Pak 'n Save Sylvia Park"", 'Four Square Ellerslie', 'Warehouse']",5149.91
+"['Warehouse', 'Four Square Pakuranga Heights', ""Pak 'n Save Sylvia Park"", 'Four Square Ellerslie', 'Warehouse']",5036.86
+"['Warehouse', 'New World Papakura', 'New World Howick', 'Four Square Pakuranga Heights', 'Warehouse']",7810.280000000001
+"['Warehouse', 'Four Square Pakuranga Heights', 'New World Howick', 'New World Stonefields', 'Warehouse']",6165.660000000001
+"['Warehouse', 'New World Papatoetoe', 'Four Square Cockle Bay', 'New World Remuera', 'Warehouse']",6856.969999999999
+"['Warehouse', 'Four Square Cockle Bay', 'New World Papakura', 'New World Southmall', 'Warehouse']",8264.599999999999
+"['Warehouse', 'New World Papakura', 'Four Square Cockle Bay', 'New World Stonefields', 'Warehouse']",8424.839999999998
+"['Warehouse', 'New World Papakura', 'Four Square Cockle Bay', 'New World Eastridge', 'Warehouse']",8917.86
+"['Warehouse', 'New World Howick', 'Four Square Cockle Bay', 'New World Papakura', 'Warehouse']",8007.530000000001
+"['Warehouse', 'New World Papakura', 'Four Square Cockle Bay', 'New World Botany', 'Warehouse']",8156.43
+"['Warehouse', 'New World Papakura', 'New World Botany', 'Four Square Ellerslie', 'Warehouse']",7420.04
+"['Warehouse', 'New World Botany', 'New World Stonefields', 'Four Square Ellerslie', 'Warehouse']",5970.180000000001
+"['Warehouse', 'New World Papakura', 'New World Stonefields', 'Four Square Ellerslie', 'Warehouse']",6798.280000000001
+"['Warehouse', ""Pak 'n Save Manukau"", 'Four Square Botany Junction', 'Four Square Ellerslie', 'Warehouse']",5403.429999999999
+"['Warehouse', ""Pak 'n Save Glen Innes"", 'Four Square Botany Junction', 'Four Square Everglade', 'Warehouse']",6535.33
+"['Warehouse', ""Pak 'n Save Clendon"", 'Four Square Botany Junction', 'Four Square Ellerslie', 'Warehouse']",6266.17
+"['Warehouse', 'Four Square Ellerslie', 'Four Square Botany Junction', ""Pak 'n Save Mangere"", 'Warehouse']",5865.12
